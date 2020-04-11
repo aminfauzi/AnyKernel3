@@ -1,21 +1,26 @@
 # AnyKernel3 Ramdisk Mod Script
 # osm0sis @ xda-developers
+# Modified by aminfauzi @ xda-developers
 
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Sonic-Kernel by aminfauzi @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
-supported.versions=
+device.name1=hltexx
+device.name2=hlte
+device.name3=hltekor
+device.name4=hltetmo
+device.name5=hltechn
+device.name6=hltespr
+device.name7=hltecan
+device.name8=hlteskt
+device.name9=hltedcm
+supported.versions= 9
 supported.patchlevels=
 '; } # end properties
 
