@@ -15,7 +15,7 @@ device.name2=RMX2063
 device.name3=RMX2170
 device.name4=rmx2061
 device.name5=rmx2063
-supported.versions=13, 14, 15, 16
+supported.versions=13, 14, 15, 16, 17
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
